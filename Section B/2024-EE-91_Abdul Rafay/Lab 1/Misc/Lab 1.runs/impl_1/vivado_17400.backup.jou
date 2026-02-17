@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Feb 17 11:19:55 2026
+# Process ID: 17400
+# Current directory: D:/Digital Systems/Lab 1/Misc/Lab 1.runs/impl_1
+# Command line: vivado.exe -log and_gate.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source and_gate.tcl -notrace
+# Log file: D:/Digital Systems/Lab 1/Misc/Lab 1.runs/impl_1/and_gate.vdi
+# Journal file: D:/Digital Systems/Lab 1/Misc/Lab 1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source and_gate.tcl -notrace
