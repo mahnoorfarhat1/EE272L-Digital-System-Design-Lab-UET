@@ -1,0 +1,82 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1771262457
+VQaQViALaNno>cE5dkT5HA2
+Z2 04 11 4 work and_gate_tb fast 0
+=1-d03c1ff238a2-699351f9-fa-1fdc
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1771410709
+VkRB]5C[BoiWOC==C9HzZN3
+R2
+=1-d03c1ff238a2-69959515-a4-3b4c
+R3
+R4
+R5
+n@_opt1
+R6
+vand_gate
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1771410654
+!i10b 1
+!s100 VGPPBWX@Y[da_LUY5<Gba0
+IK0J8M7b8ZKHnI?TXjF6Ho3
+S1
+Z9 dD:/2024EE92_SaadAliButt/Lab_1/questa
+w1770826888
+8D:/DSD/Lab1/and_gate.sv
+FD:/DSD/Lab1/and_gate.sv
+!i122 2
+L0 1 10
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1771410654.000000
+!s107 D:/DSD/Lab1/and_gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/DSD/Lab1/and_gate.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vand_gate_tb
+R7
+R8
+!i10b 1
+!s100 Wi=fD5O4A`d]jKGIaRFlD0
+IYf4hBOCXdgiGgg1RN>9k03
+S1
+R9
+w1770826886
+8D:/DSD/Lab1/and_gate_tb.sv
+FD:/DSD/Lab1/and_gate_tb.sv
+!i122 3
+L0 1 33
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 D:/DSD/Lab1/and_gate_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/DSD/Lab1/and_gate_tb.sv|
+!i113 0
+R13
+R5

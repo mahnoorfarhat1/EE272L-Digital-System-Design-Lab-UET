@@ -1,0 +1,15 @@
+D:/DSD/Lab1/and_gate.sv {1 {vlog -work work -vopt -sv -stats=none D:/DSD/Lab1/and_gate.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} D:/DSD/Lab1/and_gate_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/DSD/Lab1/and_gate_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}}
