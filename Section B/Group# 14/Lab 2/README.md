@@ -1,1 +1,1 @@
-## **LAB#2__1-bit full_adder and 3-bit ripple_carry**
+## **LAB#2__full_adder and ripple_carry**
