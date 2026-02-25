@@ -1,0 +1,36 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="7wnftBGnQD28KoBy3mVp">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8RJ3Xb_AdChFt15NVg22-1" parent="1" style="shape=or;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="369" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8RJ3Xb_AdChFt15NVg22-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="179.5" as="sourcePoint" />
+            <mxPoint x="559" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RJ3Xb_AdChFt15NVg22-10" connectable="0" parent="8RJ3Xb_AdChFt15NVg22-9" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Label" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RJ3Xb_AdChFt15NVg22-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="369" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RJ3Xb_AdChFt15NVg22-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="150" as="sourcePoint" />
+            <mxPoint x="370" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
