@@ -1,0 +1,27 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/L1
+T_opt
+!s110 1771755672
+VoE6X4ahI2:9C>_58eN=jF1
+04 15 4 work ripple_carry_tb fast 0
+=1-c03532dc59c5-699ad898-1c0-4730
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+R1
