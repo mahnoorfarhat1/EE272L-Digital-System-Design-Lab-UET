@@ -1,0 +1,16 @@
+C:/Users/MOD/Desktop/lab1/questa/and_gate.v {1 {vlog -work work -vopt -stats=none C:/Users/MOD/Desktop/lab1/questa/and_gate.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}} C:/Users/MOD/Desktop/lab1/questa/and_gate_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/MOD/Desktop/lab1/questa/and_gate_tb.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module and_gate
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}}
