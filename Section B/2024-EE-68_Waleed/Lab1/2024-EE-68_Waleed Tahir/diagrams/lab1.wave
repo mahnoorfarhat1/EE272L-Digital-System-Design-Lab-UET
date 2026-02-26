@@ -1,7 +1,0 @@
-{signal: [
-  {name: 'A', wave: '01..'},
-  {name: 'B', wave: '10.1'},
-  {name: 'Y', wave: '0.10'},
- 
-  
-]}
