@@ -1,0 +1,87 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.7c/examples
+T_opt
+!s110 1771846266
+V]S[8>O@^F2`X[ZMMSPbmT2
+Z1 04 11 4 work and_gate_tb fast 0
+=1-b05cda23d2f8-699c3a78-2c8-4f8c
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1771871331
+VDf:`c40Tk5BbVfif2;n4n1
+R1
+=1-b05cda23d2f8-699c9c62-3b4-45cc
+R2
+R3
+n@_opt1
+R4
+T_opt2
+!s110 1771871063
+VoDZ=]bXBO3ECKFe1Qc4KS1
+04 8 4 work and_gate fast 0
+=1-b05cda23d2f8-699c9b57-278-4514
+R2
+R3
+n@_opt2
+R4
+R0
+vand_gate
+Z5 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z6 !s110 1771871176
+!i10b 1
+!s100 `3BGfI`1eTQ>Bn=K8fUzS1
+IjAK<NWZ8c4763?aK8D0h70
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+!s105 AND_gate_sv_unit
+S1
+Z8 dC:/Users/hp/Downloads/dld lab2
+w1771845914
+8C:/Users/hp/Downloads/dld lab2/AND_gate.sv
+FC:/Users/hp/Downloads/dld lab2/AND_gate.sv
+L0 1
+Z9 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z10 !s108 1771871176.000000
+!s107 C:/Users/hp/Downloads/dld lab2/AND_gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/Downloads/dld lab2/AND_gate.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vand_gate_tb
+R5
+R6
+!i10b 1
+!s100 ^FS;j<V<YVz@S^n5lBkbb2
+I_1kCW3SZz_B:nT<KnSn633
+R7
+!s105 and_gate_tb_sv_unit
+S1
+R8
+w1771845901
+8C:\Users\hp\Downloads\dld lab2\and_gate_tb.sv
+FC:\Users\hp\Downloads\dld lab2\and_gate_tb.sv
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\hp\Downloads\dld lab2\and_gate_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\hp\Downloads\dld lab2\and_gate_tb.sv|
+!i113 0
+R11
+R3
