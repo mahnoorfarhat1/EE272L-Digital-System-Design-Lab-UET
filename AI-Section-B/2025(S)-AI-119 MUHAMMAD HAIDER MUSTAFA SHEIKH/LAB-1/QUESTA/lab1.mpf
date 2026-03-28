@@ -1,0 +1,3 @@
+and_gate:and_gate(fast)
+VlPackage std
+Capacity #vsim_capacity#
