@@ -1,0 +1,29 @@
+C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_ripple_carry
+
+Top level modules:
+	tb_ripple_carry
+
+} {} {}} C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module tb_full_adder
+
+Top level modules:
+	tb_full_adder
+
+} {} {}} C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module ripple_carry
+
+Top level modules:
+	ripple_carry
+
+} {} {}}

@@ -1,0 +1,142 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1772128328
+V@R9BH^;VXm^]QJTE7@gZ]1
+04 13 4 work tb_full_adder fast 0
+=1-f889d20b4651-69a08846-3ac-3428
+R0
+Z2 !s12f OEM100
+Z3 !s12b OEM100
+Z4 !s124 OEM100
+Z5 o-quiet -auto_acc_if_foreign -work work +acc
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2024.1;79
+R1
+T_opt1
+!s110 1772128904
+Vf6_V[:Hj6fn3@>9mg0@l:1
+04 15 4 work tb_ripple_carry fast 0
+=1-f889d20b4651-69a08a87-302-3c9c
+R0
+R2
+R3
+R4
+R5
+R6
+n@_opt1
+R7
+vfull_adder
+2C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1772128070
+!i10b 1
+!s100 PlaSJ5RM@836[0n3N@J`i0
+ILzO9Q:iTzk<>1FWUcFLCR0
+S1
+Z10 dC:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2
+w1772127190
+8C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv
+FC:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv
+!i122 0
+L0 1 7
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z13 !s108 1772128070.000000
+!s107 C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/full_adder.sv|
+!i113 0
+Z14 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vripple_carry
+2C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv
+R8
+R9
+!i10b 1
+!s100 =<RcRz`;SOHB1J852l9la1
+IVkgBQ^<X4XK5m4VAWCm[k3
+S1
+R10
+w1772127249
+8C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv
+FC:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv
+!i122 1
+L0 1 21
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/src/ripple_carry.sv|
+!i113 0
+R14
+R6
+vtb_full_adder
+2C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv
+R8
+R9
+!i10b 1
+!s100 O3i[U7PVIg[_]Q=U:7]J83
+IXTb9mA?D;]X?=UdF:7<Co0
+S1
+R10
+w1772127624
+8C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv
+FC:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv
+!i122 2
+L0 1 35
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_full_adder.sv|
+!i113 0
+R14
+R6
+vtb_ripple_carry
+2C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv
+R8
+R9
+!i10b 1
+!s100 j^h0hDh[dIKS_7U[8CL?c2
+IS0jkF_mHamHS:BPaXGe8g1
+S1
+R10
+w1772127466
+8C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv
+FC:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv
+!i122 3
+L0 1 29
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/Desktop/2025(S)AI105_SyedBilal/Lab2/sim/tb_ripple_carry.sv|
+!i113 0
+R14
+R6
