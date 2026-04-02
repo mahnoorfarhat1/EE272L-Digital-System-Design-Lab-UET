@@ -1,0 +1,16 @@
+D:/UET/semester_3/DLD_Lab/lab/ripple_carry.sv {1 {vlog -work work -vopt -sv -stats=none D:/UET/semester_3/DLD_Lab/lab/ripple_carry.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+-- Compiling module ripple_carry
+
+Top level modules:
+	ripple_carry
+
+} {} {}} D:/UET/semester_3/DLD_Lab/lab/ripple_carry_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/UET/semester_3/DLD_Lab/lab/ripple_carry_tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module ripple_carry_tb
+
+Top level modules:
+	ripple_carry_tb
+
+} {} {}}

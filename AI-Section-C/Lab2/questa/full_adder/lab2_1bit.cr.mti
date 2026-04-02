@@ -1,0 +1,15 @@
+D:/UET/semester_3/DLD_Lab/lab/full_adder_tb.SV {1 {vlog -work work -vopt -sv -stats=none D:/UET/semester_3/DLD_Lab/lab/full_adder_tb.SV
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder_tb
+
+Top level modules:
+	full_adder_tb
+
+} {} {}} D:/UET/semester_3/DLD_Lab/lab/full_adder.sv {1 {vlog -work work -vopt -sv -stats=none D:/UET/semester_3/DLD_Lab/lab/full_adder.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}}
